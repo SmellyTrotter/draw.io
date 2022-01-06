@@ -1,1 +1,61 @@
-<mxfile host="app.diagrams.net" modified="2022-01-06T08:30:45.780Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" version="16.2.2" etag="KzrJXMNU850y6EfYqpSy" type="github"><diagram id="DTe8X7TjdV6Zst2KxOSg">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-01-06T08:37:48.070Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="YIfRdF4VGdNWSWSy1i9C" version="16.2.2" type="github">
+  <diagram id="DTe8X7TjdV6Zst2KxOSg" name="第 1 页">
+    <mxGraphModel dx="1009" dy="712" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Pg6s939gn41D4o8I3VJr-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="Pg6s939gn41D4o8I3VJr-1" target="Pg6s939gn41D4o8I3VJr-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Pg6s939gn41D4o8I3VJr-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="Pg6s939gn41D4o8I3VJr-2" target="Pg6s939gn41D4o8I3VJr-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Pg6s939gn41D4o8I3VJr-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="Pg6s939gn41D4o8I3VJr-3" target="Pg6s939gn41D4o8I3VJr-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Pg6s939gn41D4o8I3VJr-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="Pg6s939gn41D4o8I3VJr-4" target="Pg6s939gn41D4o8I3VJr-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Pg6s939gn41D4o8I3VJr-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="Pg6s939gn41D4o8I3VJr-5" target="Pg6s939gn41D4o8I3VJr-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Pg6s939gn41D4o8I3VJr-13" value="S6" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;container=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="579" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Pg6s939gn41D4o8I3VJr-1" value="&lt;span style=&quot;font-size: 12.0pt&quot;&gt;在不同巷道内进行定位实验，记录实验数据，同时获取不同矿井巷道结构参数、巷道内环境参数等&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
+          <mxGeometry x="181" y="21" width="390" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Pg6s939gn41D4o8I3VJr-8" value="S1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;container=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="41" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Pg6s939gn41D4o8I3VJr-2" value="&lt;span style=&quot;font-size: 16px&quot;&gt;对S1获取到的尽可能多组的数据进行预处理，组成数据集&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
+          <mxGeometry x="181" y="128" width="390" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Pg6s939gn41D4o8I3VJr-9" value="S2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;container=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="148" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Pg6s939gn41D4o8I3VJr-3" value="&lt;span style=&quot;font-size: 16px&quot;&gt;基于S2处理得到的数据集进行动态信道损耗模型的训练&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
+          <mxGeometry x="181" y="240" width="390" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Pg6s939gn41D4o8I3VJr-10" value="S3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;container=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="260" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Pg6s939gn41D4o8I3VJr-4" value="&lt;span style=&quot;font-size: 12.0pt&quot;&gt;将预处理后的实时数据输入到&lt;span lang=&quot;EN-US&quot;&gt;S3&lt;/span&gt;的动态信道损耗模型中，得到实时的环境参数和损耗因子&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
+          <mxGeometry x="181" y="348" width="390" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Pg6s939gn41D4o8I3VJr-11" value="S4" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;container=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="368" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Pg6s939gn41D4o8I3VJr-5" value="&lt;span style=&quot;font-size: 12.0pt&quot;&gt;将实时功率、&lt;span lang=&quot;EN-US&quot;&gt;S4&lt;/span&gt;获得的实时环境参数与损耗因子应用到对数距离路径损耗模型中，计算更加精确的基站与目标间的距离&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
+          <mxGeometry x="181" y="451" width="390" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Pg6s939gn41D4o8I3VJr-12" value="S5" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;container=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="471" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Pg6s939gn41D4o8I3VJr-7" value="&lt;span style=&quot;font-size: 16px ; text-align: left&quot;&gt;基于&lt;/span&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 16px ; text-align: left&quot;&gt;S5&lt;/span&gt;&lt;span style=&quot;font-size: 16px ; text-align: left&quot;&gt;计算的多个基站到目标的距离，应用几何算法计算目标坐标&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
+          <mxGeometry x="181" y="559" width="390" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
