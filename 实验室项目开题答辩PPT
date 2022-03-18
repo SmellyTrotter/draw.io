@@ -1,1 +1,34 @@
-<mxfile host="app.diagrams.net" modified="2022-03-18T11:09:20.329Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" version="17.1.3" etag="xyHDGS87XHP0jehHyxUj" type="github"><diagram id="MMd6z31NUA9poU6gtqFx">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-03-18T11:30:03.939Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="OP9O7J-NZtZt3DYKZaMi" version="17.1.3" type="github">
+  <diagram id="MMd6z31NUA9poU6gtqFx" name="Page-1">
+    <mxGraphModel dx="1038" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="fMf4YCG6Nj03JBpNnvRF-10" value="" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontSize=18;strokeWidth=2;dashed=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="310" y="340" width="360" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="fMf4YCG6Nj03JBpNnvRF-3" value="学生服务" style="whiteSpace=wrap;html=1;strokeWidth=2;gradientColor=none;sketch=0;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="520" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fMf4YCG6Nj03JBpNnvRF-5" value="用户认证服务" style="whiteSpace=wrap;html=1;strokeWidth=2;gradientColor=none;sketch=0;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="130" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fMf4YCG6Nj03JBpNnvRF-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=18;strokeWidth=2;" edge="1" parent="1" source="fMf4YCG6Nj03JBpNnvRF-6" target="fMf4YCG6Nj03JBpNnvRF-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fMf4YCG6Nj03JBpNnvRF-6" value="网关服务" style="whiteSpace=wrap;html=1;strokeWidth=2;gradientColor=none;sketch=0;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="130" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fMf4YCG6Nj03JBpNnvRF-7" value="系统服务" style="whiteSpace=wrap;html=1;strokeWidth=2;gradientColor=none;sketch=0;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="354" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fMf4YCG6Nj03JBpNnvRF-8" value="服务注册中心" style="whiteSpace=wrap;html=1;strokeWidth=2;gradientColor=none;sketch=0;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="294" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fMf4YCG6Nj03JBpNnvRF-11" value="教师服务" style="whiteSpace=wrap;html=1;strokeWidth=2;gradientColor=none;sketch=0;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="530" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
