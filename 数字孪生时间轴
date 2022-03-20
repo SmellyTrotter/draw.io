@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-20T12:37:15.724Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="vbL8nVGRiCckpNIw1zlI" version="17.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-20T12:38:07.600Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="hsx8y7w75tZ3Cyb6OMfR" version="17.1.3" type="github">
   <diagram id="Eq9JiTx5ePQIAvdPGeJ0" name="Page-1">
     <mxGraphModel dx="865" dy="490" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -127,10 +127,10 @@
         <mxCell id="IP0OLOWtVnqJagIEodNn-35" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=21.79;notch=0;fontSize=6;" vertex="1" parent="1">
           <mxGeometry x="500" y="390" width="160" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="IP0OLOWtVnqJagIEodNn-36" value="Cerrone将数字孪生应用到金属裂纹路径的预测" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=6;fontFamily=Helvetica;" vertex="1" parent="1">
+        <mxCell id="IP0OLOWtVnqJagIEodNn-36" value="Canedo探讨工业物联网与数字孪生的结合时强调了孪生体之间时空关系的重要性" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=6;fontFamily=Helvetica;" vertex="1" parent="1">
           <mxGeometry x="500" y="402.5" width="140" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="IP0OLOWtVnqJagIEodNn-37" value="2014" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=6;" vertex="1" parent="1">
+        <mxCell id="IP0OLOWtVnqJagIEodNn-37" value="2016" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=6;" vertex="1" parent="1">
           <mxGeometry x="550" y="280" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IP0OLOWtVnqJagIEodNn-38" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
