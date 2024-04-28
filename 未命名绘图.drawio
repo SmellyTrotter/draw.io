@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2024-04-28T03:59:41.123Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="N16MqkBAbKp-DaXxcP-i" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-28T06:44:38.652Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="2t1AvSM8VZBV74EmLsj0" version="24.3.1" type="github">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
     <mxGraphModel dx="1900" dy="570" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="aM9ryv3xv72pqoxQDRHE-7" value="商机流（主被叫、通话时长）" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;fontSize=9;" parent="1" source="aM9ryv3xv72pqoxQDRHE-1" target="aM9ryv3xv72pqoxQDRHE-5" edge="1">
+        <mxCell id="aM9ryv3xv72pqoxQDRHE-7" value="商机流（brokerId、被叫、通话时长）" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;fontSize=9;" parent="1" source="aM9ryv3xv72pqoxQDRHE-1" target="aM9ryv3xv72pqoxQDRHE-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="95" y="230" as="sourcePoint" />
             <Array as="points">
@@ -13,7 +13,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bJmZbHxydeo-3XwCCwxk-5" value="查询好友关系&lt;div&gt;searchStaffCustomerWithUC&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1" source="aM9ryv3xv72pqoxQDRHE-5">
+        <mxCell id="bJmZbHxydeo-3XwCCwxk-5" value="查询好友关系&lt;div&gt;searchFriendsByKeyuanPhones&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1" source="aM9ryv3xv72pqoxQDRHE-5">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="277" y="295" as="sourcePoint" />
             <mxPoint x="421.5" y="295" as="targetPoint" />
@@ -34,7 +34,7 @@
         <mxCell id="bJmZbHxydeo-3XwCCwxk-14" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="422.75" y="445" width="10" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="bJmZbHxydeo-3XwCCwxk-15" value="&lt;div&gt;创建获客链接&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" edge="1" target="bJmZbHxydeo-3XwCCwxk-14" parent="1">
+        <mxCell id="bJmZbHxydeo-3XwCCwxk-15" value="&lt;div&gt;创建获客链接(type:400, Id:话单id)&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" edge="1" target="bJmZbHxydeo-3XwCCwxk-14" parent="1">
           <mxGeometry x="-0.0033" relative="1" as="geometry">
             <mxPoint x="272.25" y="450" as="sourcePoint" />
             <mxPoint as="offset" />
@@ -109,10 +109,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="bJmZbHxydeo-3XwCCwxk-30" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="-120" y="245" width="900" height="8" as="geometry" />
+          <mxGeometry x="-150" y="245" width="930" height="8" as="geometry" />
         </mxCell>
         <mxCell id="bJmZbHxydeo-3XwCCwxk-31" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="-120" y="200" width="900" height="8" as="geometry" />
+          <mxGeometry x="-150" y="200" width="930" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="bJmZbHxydeo-3XwCCwxk-32" value="经纪人外呼" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-145" y="150" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bJmZbHxydeo-3XwCCwxk-33" value="客户呼入" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="214" width="80" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="bJmZbHxydeo-3XwCCwxk-34" value="共同处理逻辑" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="303" width="80" height="22" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
