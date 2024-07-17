@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-17T13:36:18.425Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="DAWulHZrxd0BQmB9hHTU" version="24.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-17T13:37:04.390Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="PIfyjpa4uiikskZHs8NF" version="24.6.5" type="github">
   <diagram name="第 1 页" id="zzoMLaYJgZ_6w3f55oP_">
     <mxGraphModel dx="1434" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -175,9 +175,6 @@
         </mxCell>
         <mxCell id="J_oKU9sIPk25eqEcuQ5v-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="J_oKU9sIPk25eqEcuQ5v-36" target="J_oKU9sIPk25eqEcuQ5v-53" edge="1">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="JoWzsIIH0mBIpSpsmLhF-2" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="690" y="450" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="JoWzsIIH0mBIpSpsmLhF-4" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;轮次计算&lt;/h1&gt;&lt;p&gt;遍历按时间正序的IM会话记录，每遍历到一个不同的发送人，累加0.5轮次&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="82.75" y="870" width="180" height="120" as="geometry" />
