@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-19T10:10:38.150Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="54dRpDcsLv9-afqh_dW5" version="24.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-19T10:27:18.306Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="Z6sKbmmbKChdVKNFNiZB" version="24.6.5" type="github">
   <diagram name="第 1 页" id="zzoMLaYJgZ_6w3f55oP_">
     <mxGraphModel dx="1434" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -34,7 +34,7 @@
         <mxCell id="J_oKU9sIPk25eqEcuQ5v-39" value="im_aggr_shangji_di" style="rounded=0;whiteSpace=wrap;html=1;" parent="J_oKU9sIPk25eqEcuQ5v-3" vertex="1">
           <mxGeometry x="16.88" y="346" width="116.25" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="J_oKU9sIPk25eqEcuQ5v-63" value="cust_ucid&lt;div&gt;agent_ucid_list&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="J_oKU9sIPk25eqEcuQ5v-3" vertex="1">
+        <mxCell id="J_oKU9sIPk25eqEcuQ5v-63" value="cust_ucid&lt;div&gt;agent_ucid_list(&lt;/div&gt;&lt;div&gt;varchar(2032))&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="J_oKU9sIPk25eqEcuQ5v-3" vertex="1">
           <mxGeometry x="16.88" y="460" width="115" height="64" as="geometry" />
         </mxCell>
         <mxCell id="JoWzsIIH0mBIpSpsmLhF-21" value="一天新增客源&lt;div&gt;35W&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fillColor=none;fontStyle=1" vertex="1" parent="J_oKU9sIPk25eqEcuQ5v-3">
@@ -249,7 +249,7 @@
         <mxCell id="J_oKU9sIPk25eqEcuQ5v-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="J_oKU9sIPk25eqEcuQ5v-53" target="J_oKU9sIPk25eqEcuQ5v-55" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JoWzsIIH0mBIpSpsmLhF-9" value="同一个人客对，可能成千上万条聊天内容&lt;div&gt;limit 200&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" vertex="1" connectable="0" parent="J_oKU9sIPk25eqEcuQ5v-56">
+        <mxCell id="JoWzsIIH0mBIpSpsmLhF-9" value="同一个人客对，可能成千上万条聊天内容&lt;div&gt;取最新limit 200&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" vertex="1" connectable="0" parent="J_oKU9sIPk25eqEcuQ5v-56">
           <mxGeometry x="0.1529" y="-1" relative="1" as="geometry">
             <mxPoint x="1" as="offset" />
           </mxGeometry>
